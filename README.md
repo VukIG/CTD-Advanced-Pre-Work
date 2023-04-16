@@ -7,14 +7,14 @@ How to Run
     Clone this repository.
     Install dependencies with npm install.
     Run the development server with npm run dev.
-    Open your browser and navigate to http://localhost:3000.
+    Open your browser and navigate to your local host
 
 Available Scripts
 
 In the project directory, you can run:
 npm run dev
 
-Runs the app in development mode. Open http://localhost:3000 to view it in the browser.
+Runs the app in development mode. Open your local host to view it in the browser.
 
 The page will reload if you make edits.
 npm run build
